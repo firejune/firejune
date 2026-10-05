@@ -2,6 +2,8 @@
 
 Frontend developer with **20+ years** of experience. I build games with web technologies and AI, and I'm currently exploring **AI-assisted 2D rigging and animation**.
 
+I enjoy collaborating with AI—from exploring ideas to building games and tools together.
+
 ### What I'm working on
 
 - **[spine-parts](https://github.com/firejune/spine-parts)** — Character artwork and decomposed layers into rig-ready parts and Spine rig specs.
