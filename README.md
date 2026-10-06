@@ -1,6 +1,6 @@
 # Hi, I'm Joon
 
-Frontend developer with **20+ years** of experience. I build games with web technologies and AI, and I'm currently exploring **AI-assisted 2D rigging and animation**.
+Frontend developer with **20+ years** of experience, building games and tools with web technologies.
 
 I enjoy collaborating with AI—from exploring ideas to building games and tools together.
 
