@@ -6,9 +6,9 @@ I enjoy collaborating with AI—from exploring ideas to building games and tools
 
 ### What I'm working on
 
-- **[spine-parts](https://github.com/firejune/spine-parts)** — Character artwork and decomposed layers into rig-ready parts and Spine rig specs.
-- **[rigc](https://github.com/firejune/rigc)** — Declarative rig and animation specs into validated Spine skeleton data.
-- **[spine-html](https://github.com/firejune/spine-html)** — Spine animations in the browser with a DOM-first renderer.
+- **[rig-c/parts](https://github.com/rig-c/parts)** — Character artwork and decomposed layers into rig-ready parts and rig specs.
+- **[rig-c/core](https://github.com/rig-c/core)** — Declarative rig and animation specs into validated Spine skeleton data.
+- **[rig-c/play](https://github.com/rig-c/play)** — Compiled rigs played in the browser with a DOM-first renderer.
 - **[unity2spine](https://github.com/firejune/unity2spine)** — Unity 2D rigged assets converted to Spine data.
 
 ### Blosharper: Battle of Blossoms
