@@ -15,7 +15,7 @@ I enjoy collaborating with AI—from exploring ideas to building games and tools
 
 My roguelike deckbuilder based on **Hwatu**, Korean flower cards. Built with TypeScript, DOM, and CSS, packaged with Electron, and developed alongside AI agents.
 
-**[Available on Steam Early Access →](https://store.steampowered.com/app/4718270/)**
+**[Available on Steam →](https://store.steampowered.com/app/4718270/)**
 
 Other projects: [byteguard](https://github.com/firejune/byteguard) · [headerless](https://github.com/firejune/headerless) · [jandi](https://github.com/firejune/jandi)
 
