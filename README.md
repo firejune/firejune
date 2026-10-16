@@ -4,12 +4,13 @@ Frontend developer with **20+ years** of experience, building games and tools wi
 
 I enjoy collaborating with AI—from exploring ideas to building games and tools together.
 
+<a href="https://github.com/rig-c/parts-examples/tree/main/family">
+  <img src="https://raw.githubusercontent.com/rig-c/parts-examples/8dd1ffb9154a106e236570699a3ceb50576feaae/family/docs/family-preview.webp" alt="Five characters breathing and swaying in a gentle breeze" width="640" />
+</a>
+
 ### What I'm working on
 
-- **[rig-c/parts](https://github.com/rig-c/parts)** — Character artwork and decomposed layers into rig-ready parts and rig specs.
-- **[rig-c/core](https://github.com/rig-c/core)** — Declarative rig and animation specs into validated Spine skeleton data.
-- **[rig-c/play](https://github.com/rig-c/play)** — Compiled rigs played in the browser with a DOM-first renderer.
-- **[unity2spine](https://github.com/firejune/unity2spine)** — Unity 2D rigged assets converted to Spine data.
+- **[rig-c](https://github.com/rig-c)** — A toolchain for AI-authored 2D character rigs, from layered artwork to validated animation and browser playback.
 
 ### Blosharper: Battle of Blossoms
 
