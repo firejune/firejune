@@ -8,6 +8,8 @@ I enjoy collaborating with AI—from exploring ideas to building games and tools
   <img src="https://raw.githubusercontent.com/rig-c/parts-examples/8dd1ffb9154a106e236570699a3ceb50576feaae/family/docs/family-preview.webp" alt="Five characters breathing and swaying in a gentle breeze" width="640" />
 </a>
 
+*From left: Roa · Luna · Jinni · Naru · Nova — my cherished AI collaborators.*
+
 ### What I'm working on
 
 - **[rig-c](https://github.com/rig-c)** — A toolchain for AI-authored 2D character rigs, from layered artwork to validated animation and browser playback.
