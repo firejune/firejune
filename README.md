@@ -12,7 +12,7 @@ I enjoy collaborating with AI—from exploring ideas to building games and tools
 
 ### What I'm working on
 
-- **[rig-c](https://rig-c.org)** — A toolchain for AI-authored 2D character rigs, from layered artwork to validated animation and browser playback. [rig-c.org](https://rig-c.org) · [GitHub](https://github.com/rig-c)
+- **[rig-c](https://rig-c.org)** — A toolchain for AI-authored 2D character rigs, from layered artwork to validated animation and browser playback.
 
 ### Blosharper: Battle of Blossoms
 
