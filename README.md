@@ -3,7 +3,6 @@
 Frontend developer with **20+ years** of experience, building games and tools with web technologies.
 
 I enjoy collaborating with AI—from exploring ideas to building games and tools together.
-
 <a href="https://github.com/rig-c/parts-examples/tree/main/family">
   <img src="https://raw.githubusercontent.com/rig-c/parts-examples/8dd1ffb9154a106e236570699a3ceb50576feaae/family/docs/family-preview.webp" alt="Five characters breathing and swaying in a gentle breeze" width="640" />
 </a>
