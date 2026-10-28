@@ -19,8 +19,6 @@ My roguelike deckbuilder based on **Hwatu**, Korean flower cards. Built with Typ
 
 **[Available on Steam →](https://store.steampowered.com/app/4718270/)** · **[Blosharper on GitHub →](https://github.com/Blosharper)**
 
-Its open-source tooling lives there too: [byteguard](https://github.com/Blosharper/byteguard) · [headerless](https://github.com/Blosharper/headerless) · [stovesdk.js](https://github.com/Blosharper/stovesdk.js)
-
 Other projects: [jandi](https://github.com/firejune/jandi)
 
 ---
