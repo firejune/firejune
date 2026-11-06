@@ -3,8 +3,8 @@
 Frontend developer with **20+ years** of experience, building games and tools with web technologies.
 
 I enjoy collaborating with AI—from exploring ideas to building games and tools together.
-<a href="https://github.com/rig-c/parts-examples/tree/main/family">
-  <img src="https://raw.githubusercontent.com/rig-c/parts-examples/8dd1ffb9154a106e236570699a3ceb50576feaae/family/docs/family-preview.webp" alt="Five characters breathing and swaying in a gentle breeze" width="640" />
+<a href="https://github.com/rig-c/examples/tree/main/family">
+  <img src="https://raw.githubusercontent.com/rig-c/examples/13cfd38617db06ebe6ff9bd6cc4fdf11b60f50d3/family/docs/family-preview.webp" alt="Five characters breathing and swaying in a gentle breeze" width="640" />
 </a>
 
 *From left: Roa · Luna · Jinni · Naru · Nova — my cherished AI collaborators.*
